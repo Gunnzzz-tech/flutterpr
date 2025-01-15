@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078848904627",
+    "project_id": "fire-setup-cb475",
+    "storage_bucket": "fire-setup-cb475.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078848904627:android:0c3bfd5fde51c5ea8b7fc6",
+        "android_client_info": {
+          "package_name": "com.example.basic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjILo5NmPNoPnIZvrpVkt28lV9I3w5q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078848904627:android:a4dbc1b800d42a598b7fc6",
+        "android_client_info": {
+          "package_name": "com.example.fire_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjILo5NmPNoPnIZvrpVkt28lV9I3w5q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
