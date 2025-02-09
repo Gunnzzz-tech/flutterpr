@@ -19,8 +19,11 @@ Support for pause, play, seek, and full-screen mode.
 Fetch live weather data using an API by entering a city name.
 Display key weather metrics such as temperature, humidity, wind speed, and conditions.
 Beautiful and intuitive UI with weather icons based on real-time data.
+
 Tech Stack
 Flutter (for cross-platform development)
 Dart (primary language)
 Firebase (for video storage and playback)
 Weather API (for fetching live weather updates)
+<img width="1377" alt="Screenshot 2025-02-05 at 4 05 05 PM" src="https://i.ytimg.com/vi/4uCfvenyEg4/maxresdefault.jpg" />
+
